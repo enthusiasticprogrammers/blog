@@ -12,4 +12,4 @@ Be sure to visit us on github.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[club@enthusiasticprogrammers.com](mailto:club@enthusiasticprogrammers.com)
