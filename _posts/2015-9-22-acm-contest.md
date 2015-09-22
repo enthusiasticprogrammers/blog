@@ -1,4 +1,7 @@
-ACM Coding Competition
+---
+layout: post
+title: ACM Coding Competition
+---
 
 There is an upcoming ACM programming challenge for interested and individuals with coding experience. You are encouraged to participate if you're up for the challenge.
 
