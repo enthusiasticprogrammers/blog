@@ -6,7 +6,7 @@
 name: Enthusiastic Programmers Club
 
 # Short bio or description (displayed in the header)
-description: CS Club
+description: Moorpark CS Club
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://enthusiasticprogrammers.github.io/blog/images/avatar.png
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://enthusiasticprogrammers.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
